@@ -1,0 +1,58 @@
+#header-sitio {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightblue;
+    background-color: lightblue;
+    justify-content: space-between;
+    height: 5%;
+ }
+
+#header-info {
+    display: flex;
+    align-items: center;
+    font-family: "Segoe UI";
+}
+
+ #logo {
+    width: 4%;
+    margin: 0.5em;
+}
+
+#header-titulo {
+    font-size: 3vW;
+    margin-left: 0.3em;
+    color: rgb(6, 149, 238);
+}
+
+#principal {
+    background-image: url("../img/fondo.jpg");
+    background-size: cover;
+    font-family: "Segoe UI";
+    font-size: 1.5vw;
+    color: white;
+}
+
+#footer-sitio {
+    display: flex;
+    height: 5%;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid lightblue;
+    background-color: lightblue;
+    font-family: "Segoe UI";
+}
+
+#footer-info {
+    display: flex;
+    align-items: center;
+}
+
+#footer-titulo {
+    font-size: 1.5vw;
+    margin-left: 0.5em;
+    color: rgb(6, 149, 238);
+}
+
+#info {
+    padding: 00.5em;
+}
